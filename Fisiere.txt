@@ -1,0 +1,8 @@
+Imagine,a,b
+Imagine,a,b
+Video,g,dsaf
+Imagine,testlcoatie,descriere
+Video,TestLocatie,TestDescriere
+Imagine, C//:Documents, Catel
+Audio,TestAudio,TestAudio
+Audio,Muzica.mp3,Muzica clasica
